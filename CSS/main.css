@@ -110,6 +110,11 @@
     color: white;
     background-color: #3b5998;
   }
+
+  .btn-chefsInput {
+    color: white;
+    background-color:black;
+  }
   
   /* Fallback for Edge
   -------------------------------------------------- */
